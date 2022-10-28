@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable-v24/ic_add.xml" value="0.3712962962962963" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/btm_nav_item_select.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/carrot_button.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/carrot_button_round.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/carrot_button_round_fill.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_account_circle_fill0_wght400_grad0_opsz48.xml" value="0.35185185185185186" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_add.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.35185185185185186" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_baseline_home_work_24.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.35185185185185186" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_chat_fill0_wght400_grad0_opsz48.xml" value="0.35185185185185186" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_crop_free_fill0_wght400_grad0_opsz48.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_domain_fill0_wght400_grad0_opsz48.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_favorite_fill0_wght400_grad0_opsz48.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_forum_fill0_wght400_grad0_opsz48.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_home_fill0_wght400_grad0_opsz48.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_location_on_fill0_wght400_grad0_opsz48.xml" value="0.35185185185185186" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_notifications_fill0_wght400_grad0_opsz48.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_pin_drop_fill0_wght400_grad0_opsz48.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_sell_fill0_wght400_grad0_opsz48.xml" value="0.35185185185185186" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_support_agent_fill0_wght400_grad0_opsz48.xml" value="0.35185185185185186" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/ic_task_alt_fill0_wght400_grad0_opsz48.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/round.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/drawable/solid_button.xml" value="0.3779487179487179" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/font/font_custom.xml" value="0.39791666666666664" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_around_coupon.xml" value="0.25" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_around_map.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_favorite.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_home.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_home2.xml" value="0.25" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_login.xml" value="0.29030797101449274" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_login_main.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_pop.xml" value="0.20208333333333334" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_splash.xml" value="0.12" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/activity_sub.xml" value="0.36354166666666665" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/fragment_around.xml" value="0.25" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/fragment_around_coupon.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/fragment_carrot.xml" value="0.22" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/fragment_chat.xml" value="0.22592592592592592" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/fragment_chat2.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/fragment_chat3.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/fragment_town.xml" value="0.2151694459386767" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/home_activity_main.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_aroundfragment.xml" value="0.5" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_aroundfragment_coupon.xml" value="0.33" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_aroundfragment_coupon2.xml" value="0.5" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_aroundmap.xml" value="0.22" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_carrotfragment.xml" value="0.33" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_carrotintent.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_chatfragment.xml" value="0.5" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_favorite.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_fragment.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_homefragment.xml" value="0.33" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/item_townfragment.xml" value="0.2606060606060606" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/itm_chatfragment2.xml" value="0.3736059479553903" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/layout/popup_activity.xml" value="0.20208333333333334" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/menu/around_menu.xml" value="0.22" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/menu/btm_menu.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/menu/carrot_menu.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/menu/chat_menu.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/menu/menu_main_toolbar.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/menu/town_toolbar.xml" value="0.36770833333333336" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/mipmap-anydpi-v26/carr_ic_launcher.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/mipmap-anydpi-v26/carr_ic_launcher_round.xml" value="0.38385416666666666" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/mipmap-anydpi-v26/carrot_ic_launcher.xml" value="0.22239583333333332" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3779487179487179" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/mipmap-anydpi-v26/jej_ic_launcher.xml" value="0.22239583333333332" />
+        <entry key="..\:/Study_Android/workspace/CarrotMarket/app/src/main/res/mipmap-anydpi-v26/jej_ic_launcher_round.xml" value="0.22239583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

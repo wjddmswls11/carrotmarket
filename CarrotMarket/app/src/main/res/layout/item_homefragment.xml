@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/home_linear"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    >
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <ImageView
+            android:id="@+id/img_home"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/home1" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/img_home">
+
+
+            <TextView
+                android:id="@+id/tv_home1"
+                style="@style/home_item1"
+                android:layout_weight="2"
+                android:text="신형 포코폰 X4 GT 256G 판매"
+                android:textColor="#111"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/itemhome_linear1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_home1"
+                android:layout_marginLeft="5dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_home2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="상무2동" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text=" · " />
+
+                <TextView
+                    android:id="@+id/tv_home3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="1시간전" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/itemhome_linear2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/itemhome_linear1"
+                android:layout_gravity="left"
+                android:orientation="vertical">
+
+
+                <TextView
+                    android:id="@+id/tv_home4"
+                    style="@style/home_item2"
+                    android:text="150,000원"
+                    android:textColor="#111"
+
+                    />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/itemhome_linear2"
+                android:layout_marginRight="15dp"
+                android:gravity="right|center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:id="@+id/Lin1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/img_home_chat"
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:src="@drawable/ic_forum_fill0_wght400_grad0_opsz48" />
+
+                    <TextView
+
+                        android:id="@+id/tv_home_chat"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+
+                        android:text="10" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/Lin2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/img_home_favorite"
+                        android:layout_width="15dp"
+                        android:layout_height="15dp"
+                        android:src="@drawable/ic_favorite_fill0_wght400_grad0_opsz48" />
+
+                    <TextView
+                        android:id="@+id/tv_home_favorite"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+
+                        android:text="10" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+</LinearLayout>
