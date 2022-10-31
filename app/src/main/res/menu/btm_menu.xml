@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--
+        showAsAction : 보이는 설정
+        -always : 항상 보여주게 처리
+        -never : 안보이게 처리
+        -ifRoom : 공간이 있을때 표시
+    -->
+
+
+
+    <item
+        android:title="홈"
+        android:id="@+id/menu1"
+        android:icon="@drawable/ic_home_fill0_wght400_grad0_opsz48"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        />
+
+    <item
+        android:title="동네생활"
+        android:id="@+id/menu2"
+        android:icon="@drawable/ic_domain_fill0_wght400_grad0_opsz48"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:title="내 근처"
+        android:id="@+id/menu3"
+        android:icon="@drawable/ic_pin_drop_fill0_wght400_grad0_opsz48"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:title="채팅"
+        android:id="@+id/menu4"
+        android:icon="@drawable/ic_forum_fill0_wght400_grad0_opsz48"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:title="나의 당근"
+        android:id="@+id/menu5"
+        android:icon="@drawable/ic_baseline_person_24"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
